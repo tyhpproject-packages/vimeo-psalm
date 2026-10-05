@@ -1,15 +1,15 @@
 {
     "name": "tyhpdef/vimeo-psalm",
-    "description": "Tyhp type definitions for vimeo/psalm 7.0.0-beta19.",
+    "description": "Tyhp type definitions for vimeo/psalm 7.0.0-beta21.",
     "type": "metapackage",
     "license": "Apache-2.0",
-    "version": "7.0.0-beta19",
+    "version": "7.0.0-beta21",
     "keywords": [
         "dev",
         "static analysis"
     ],
     "require": {
-        "tyhpdef/vimeo-psalm-impl": "7.0.0.0-beta19"
+        "tyhpdef/vimeo-psalm-impl": "7.0.0.0-beta21"
     },
     "extra": {
         "tyhp": {
