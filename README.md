@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/vimeo-psalm
 
-Tyhp type definitions for `vimeo/psalm` `7.0.0-beta21`.
+Tyhp type definitions for `vimeo/psalm` `7.0.0-beta22`.
 
 ```bash
-composer require --dev tyhpdef/vimeo-psalm:7.0.0-beta21
+composer require --dev tyhpdef/vimeo-psalm:7.0.0-beta22
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/vimeo-psalm-impl` (type files).
